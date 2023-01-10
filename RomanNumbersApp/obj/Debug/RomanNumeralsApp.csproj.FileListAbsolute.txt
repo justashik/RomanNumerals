@@ -1,0 +1,8 @@
+C:\Users\Ashik\Desktop\Roman Numerals\RomanNumerals\RomanNumbersApp\bin\Debug\RomanNumbersApp.exe.config
+C:\Users\Ashik\Desktop\Roman Numerals\RomanNumerals\RomanNumbersApp\bin\Debug\RomanNumbersApp.exe
+C:\Users\Ashik\Desktop\Roman Numerals\RomanNumerals\RomanNumbersApp\bin\Debug\RomanNumbersApp.pdb
+C:\Users\Ashik\Desktop\Roman Numerals\RomanNumerals\RomanNumbersApp\obj\Debug\RomanNumeralsApp.csproj.AssemblyReference.cache
+C:\Users\Ashik\Desktop\Roman Numerals\RomanNumerals\RomanNumbersApp\obj\Debug\RomanNumeralsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ashik\Desktop\Roman Numerals\RomanNumerals\RomanNumbersApp\obj\Debug\RomanNumeralsApp.csproj.CoreCompileInputs.cache
+C:\Users\Ashik\Desktop\Roman Numerals\RomanNumerals\RomanNumbersApp\obj\Debug\RomanNumbersApp.exe
+C:\Users\Ashik\Desktop\Roman Numerals\RomanNumerals\RomanNumbersApp\obj\Debug\RomanNumbersApp.pdb

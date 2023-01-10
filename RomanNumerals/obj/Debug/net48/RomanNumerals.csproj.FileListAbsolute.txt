@@ -1,0 +1,6 @@
+C:\Users\Ashik\Desktop\Roman Numerals\RomanNumerals\RomanNumerals\obj\Debug\net48\RomanNumerals.csproj.AssemblyReference.cache
+C:\Users\Ashik\Desktop\Roman Numerals\RomanNumerals\RomanNumerals\obj\Debug\net48\RomanNumerals.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ashik\Desktop\Roman Numerals\RomanNumerals\RomanNumerals\obj\Debug\net48\RomanNumerals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashik\Desktop\Roman Numerals\RomanNumerals\RomanNumerals\obj\Debug\net48\RomanNumerals.AssemblyInfoInputs.cache
+C:\Users\Ashik\Desktop\Roman Numerals\RomanNumerals\RomanNumerals\obj\Debug\net48\RomanNumerals.AssemblyInfo.cs
+C:\Users\Ashik\Desktop\Roman Numerals\RomanNumerals\RomanNumerals\obj\Debug\net48\RomanNumerals.csproj.CoreCompileInputs.cache
