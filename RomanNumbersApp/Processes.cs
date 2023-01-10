@@ -21,6 +21,7 @@ namespace RomanNumeralsApp
         
         public static string GetNumerals(int number)
         {
+            //Dict to store the number and letter relationship
             Dictionary<int, string> romanNumerals = new Dictionary<int, string>
             {
                 { 1000, "M" },
@@ -38,12 +39,12 @@ namespace RomanNumeralsApp
                 { 1, "I" }
             };
             var result = "";
-            foreach (var value in romanNumerals.Keys.OrderByDescending(val => val))
+            foreach (var value in romanNumerals.Keys.OrderByDescending(x => x)) //iterate through values
             {
                 while (number >= value)
                 {
-                    result += romanNumerals[value];
-                    number -= value;
+                    result += romanNumerals[value]; //add letter
+                    number -= value; //subtract from current val
                 }
             }
             return result;

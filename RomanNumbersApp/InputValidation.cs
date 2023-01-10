@@ -10,6 +10,7 @@ namespace RomanNumeralsApp
     {
         public static void IsNumber(string input)
         {
+            //Check if number is valid
             int number;
             bool isNumber = int.TryParse(input, out number);
             if (!isNumber)
@@ -21,6 +22,7 @@ namespace RomanNumeralsApp
         }
         public static void IsBetweenRange(int input)
         {
+            //Check if number is between 1 and 2000
             if (input < 1 || input > 2000)
             {
                 Console.WriteLine("Enter a number between 1 & 2000");
